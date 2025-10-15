@@ -86,7 +86,10 @@ export const ProductList = () => {
             {filteredProducts.map(product => {
                 return (
                     <Grid size={{ xs: 12, sm: 6, md: 3}}>
-                        <Card sx= {{ height: "100%", ml: 3, mr: 3, mb: 3 }}>
+                        <Card 
+                            elevation={6}
+                            sx= {{ height: "100%", ml: 3, mr: 3, mb: 3 }}
+                        >
                             <CardMedia 
                                 component="img"
                                 height="200"

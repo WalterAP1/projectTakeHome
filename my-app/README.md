@@ -2,6 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## **BEFORE Running Any Script**
+
+Ensure you have the latest versions of **Node.js** and **npm** installed.
+
+Visit the [Node.js download page](https://nodejs.org/en/download/) and choose your operating system and preferred installation method.  
+_For example: On Windows, you can use Chocolatey or Volta._
+
+> **Note:** Installing Node.js will also install **npm**.
+
+To verify your installation, run the following commands:
+
+```bash
+node -v
+npm -v
+```
+
+Once Node.js is installed, navigate to the project directory containing the `package.json` file and run:
+
+```bash
+npm i
+```
+
+This command installs all dependencies.  
+Once installation is complete, you can run the available scripts.
+
+    
+
 ## Available Scripts
 
 In the project directory, you can run:
