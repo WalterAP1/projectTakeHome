@@ -1,4 +1,10 @@
-import { AppBar, Box, Button, Toolbar, Typography } from "@mui/material";
+import { 
+    AppBar, 
+    Box, 
+    Button, 
+    Toolbar, 
+    Typography 
+} from "@mui/material";
 
 export const ProjectAppBar = () => {
     const pages = ['Home', 'Products', 'About', 'Contact Us'];

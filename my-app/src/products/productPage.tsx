@@ -1,11 +1,20 @@
 import { useState, useEffect } from "react";
-import { Box, Card, CardContent, CardMedia, Chip, FormControl, Grid, InputLabel, ListSubheader, MenuItem, OutlinedInput, Paper, Select, Stack, Typography } from "@mui/material";
-
-type ProductTags = {
-  flavor: string[];
-  texture: string[];
-  category: string[];
-};
+import { 
+    Box, 
+    Card, 
+    CardContent, 
+    CardMedia, 
+    Chip, 
+    FormControl, 
+    Grid, 
+    InputLabel, 
+    MenuItem, 
+    OutlinedInput, 
+    Paper, 
+    Select, 
+    Stack, 
+    Typography 
+} from "@mui/material";
 
 type Product = {
   id: number;
