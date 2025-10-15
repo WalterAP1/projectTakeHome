@@ -1,0 +1,127 @@
+{
+    "filters": ["sour", "fruity", "chocolate", "nutty", "caramel", "hard", "chewy", "crunchy", "candy", "bar", "gummy"],    
+    "products": [
+        {
+            "id": 1,
+            "name": "Jolly Rancher",
+            "blurb": "Fruity long lasting candy that comes in many different flavors",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Jolly+Rancher",
+            "tags": ["candy", "fruity", "hard"]
+        },
+        {
+            "id": 2,
+            "name": "War Heads",
+            "blurb": "Sour candy that will make you pucker",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=War+Heads",
+            "tags": ["sour", "fruity", "hard", "candy"]
+        },
+        {
+            "id": 3,
+            "name": "Twix",
+            "blurb": "Crunchy bar with caramel and covered in milk chocolate",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Twix",
+            "tags": ["chocolate", "caramel", "crunchy", "bar"]
+        },
+        {
+            "id": 4,
+            "name": "Skittles",
+            "blurb": "Fruity chewy colorful candies",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Skittles",
+            "tags": ["fruity", "chewy", "candy"]
+        },
+        {
+            "id": 5,
+            "name": "Reese’s Peanut Butter Cup",
+            "blurb": "Classic mix of smooth peanut butter with milk chocolate",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Reese's",
+            "tags": ["chocolate", "nutty", "candy"]
+        },
+        {
+            "id": 6,
+            "name": "Snickers",
+            "blurb": "A bar with nougat, caramel, and peanuts covered in milk chocolate",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Snickers",
+            "tags": ["chocolate", "caramel", "chewy", "bar"]
+        },
+        {
+            "id": 7,
+            "name": "Starburst",
+            "blurb": "Soft, juicy fruit chews in different flavors",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Starburst",
+            "tags": ["fruity", "chewy", "candy"]
+        },
+        {
+            "id": 8,
+            "name": "Kit Kat",
+            "blurb": "Crispy wafers coated in milk chocolate",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Kit+Kat",
+            "tags": ["chocolate", "crunchy", "bar"]
+
+        },
+        {
+            "id": 9,
+            "name": "Sour Patch Kids",
+            "blurb": "Sour then sweet gummy candies shaped like little kids",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Sour+Patch",
+            "tags": ["sour", "fruity", "chewy", "candy", "gummy"]
+            
+        },
+        {
+            "id": 10,
+            "name": "M&M’s",
+            "blurb": "Colorful candy-coated chocolate bites",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=MM's",
+            "tags": ["chocolate", "crunchy"]
+        },
+        {
+            "id": 11,
+            "name": "Milky Way",
+            "blurb": "Smooth caramel and creamy nougat covered in milk chocolate",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Milky+Way",
+            "tags": ["caramel", "chocolate", "bar"]
+        },
+        {
+            "id": 12,
+            "name": "Nerds",
+            "blurb": "Tiny, crunchy, tangy candies that come in a variety of flavors",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Nerds",
+            "tags": ["fruity", "crunchy", "candy"]
+        },
+        {
+            "id": 13,
+            "name": "Tootsie Roll",
+            "blurb": "Chocolate-flavored chewy candy",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Tootsie+Roll",
+            "tags": ["chocolate", "chewy"]
+        },
+        {
+            "id": 14,
+            "name": "Gummy Bears",
+            "blurb": "Soft, fruity gummies in bear shapes",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Gummy+Bears",
+            "tags": ["fruity", "candy", "gummy"]
+        },
+        {
+            "id": 15,
+            "name": "Gummy Worms",
+            "blurb": "Soft, fruity gummies in worm shape",
+            "description": "Longer description to be added later",
+            "image": "https://dummyimage.com/200x150/000/fff&text=Gummy+Worms",
+            "tags": ["fruity", "candy", "gummy"]
+        }
+    ]
+}
